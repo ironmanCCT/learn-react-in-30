@@ -1,3 +1,6 @@
+
+This project was followed from https://github.com/WebDevSimplified/Learn-React-In-30-Minutes/ following youtube video https://www.youtube.com/watch?v=hQAHSlTtcmY "Learn React In 30 Minutes" by Web Dev Simplified
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
